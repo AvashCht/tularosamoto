@@ -1,0 +1,23 @@
+.newsletter-form{display:flex;flex-direction:column;justify-content:center;align-items:center;width:100%;position:relative}@media screen and (min-width: 750px){.newsletter-form{align-items:flex-start;margin:0 auto;max-width:36rem}}.newsletter-form__field-wrapper{width:100%}.newsletter-form__field-wrapper .field__input{padding-right:5rem}.newsletter-form__field-wrapper .field{z-index:0}.newsletter-form__message{justify-content:center;margin-bottom:0}.newsletter-form__message--success{margin-top:2rem}@media screen and (min-width: 750px){.newsletter-form__message{justify-content:flex-start}}.newsletter-form__button{width:4.4rem;margin:0;right:var(--inputs-border-width);top:0;height:100%;z-index:2}.newsletter-form__button:focus-visible{box-shadow:0 0 0 .3rem rgb(var(--color-background)),0 0 0 .4rem rgba(var(--color-foreground));background-color:rgb(var(--color-background))}.newsletter-form__button:focus{box-shadow:0 0 0 .3rem rgb(var(--color-background)),0 0 0 .4rem rgba(var(--color-foreground));background-color:rgb(var(--color-background))}.newsletter-form__button:not(:focus-visible):not(.focused){box-shadow:inherit;background-color:inherit}.newsletter-form__button .icon{width:1.5rem}
+/*# sourceMappingURL=/cdn/shop/t/14/assets/component-newsletter.css.map?v=4727253280200485261733441095 */
+
+/*
+     FILE ARCHIVED ON 19:01:01 Jan 16, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:38:24 Apr 02, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.649
+  exclusion.robots: 0.065
+  exclusion.robots.policy: 0.053
+  esindex: 0.013
+  cdx.remote: 17.629
+  LoadShardBlock: 37.628 (3)
+  PetaboxLoader3.datanode: 49.901 (4)
+  load_resource: 58.138
+  PetaboxLoader3.resolve: 37.07
+*/

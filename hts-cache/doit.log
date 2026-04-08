@@ -1,0 +1,8 @@
+-qwr3%e2C2%Ps2u1%s%uN0%I0p3DaK0M500000000m5000000,0H0%kf2A25000%c2%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://web.archive.org/web/20250123172035/https://tularosamoto.com/ -O1 "E:\Documents\Website Extract\Fresh Again\TularosaMoto" +web.archive.org/web/*/https://tularosamoto.com/* +cdn.shopify.com/s/files/1/0654/1318/* -web.archive.org/web/*/https://www.instagram.com/* -web.archive.org/web/*/https://www.facebook.com/* -web.archive.org/web/*/https://www.shopify.com/* -web.archive.org/web/*/https://monorail* -web.archive.org/web/*/https://bat.bing* -mime:application/foobar -mime:application/foobar
+File generated automatically on Thu, 02 Apr 2026 14:32:50, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

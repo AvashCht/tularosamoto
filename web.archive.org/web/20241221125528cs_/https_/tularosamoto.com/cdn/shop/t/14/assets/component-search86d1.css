@@ -1,0 +1,24 @@
+.search__input.field__input{padding-right:9.8rem}.search__button{right:var(--inputs-border-width);top:var(--inputs-border-width)}.reset__button{right:calc(var(--inputs-border-width) + 4.4rem);top:var(--inputs-border-width)}.reset__button:not(:focus-visible):after{border-right:.1rem solid rgba(var(--color-foreground),.08);display:block;height:calc(100% - 1.6rem);content:"";position:absolute;right:0}.reset__button:not(:focus):after{border-right:.1rem solid rgba(var(--color-foreground),.08);display:block;height:calc(100% - 1.8rem);content:"";position:absolute;right:0}.search__button:focus-visible,.reset__button:focus-visible{background-color:rgb(var(--color-background));z-index:4}.search__button:focus,.reset__button:focus{background-color:rgb(var(--color-background));z-index:4}.search__button:not(:focus-visible):not(.focused),.reset__button:not(:focus-visible):not(.focused){box-shadow:inherit;background-color:inherit}.search__button:hover .icon,.reset__button:hover .icon{transform:scale(1.07)}.search__button .icon{height:1.8rem;width:1.8rem}.reset__button .icon.icon-close{height:1.8rem;width:1.8rem;stroke-width:.1rem}input::-webkit-search-decoration{-webkit-appearance:none}.template-search__results{position:relative}
+/*# sourceMappingURL=/cdn/shop/t/14/assets/component-search.css.map?v=165164710990765432851733441095 */
+
+/*
+     FILE ARCHIVED ON 12:55:28 Dec 21, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:42:24 Apr 02, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.57
+  exclusion.robots: 0.058
+  exclusion.robots.policy: 0.048
+  esindex: 0.01
+  cdx.remote: 48.643
+  LoadShardBlock: 71.279 (3)
+  PetaboxLoader3.datanode: 124.292 (5)
+  load_resource: 652.453
+  PetaboxLoader3.resolve: 591.906
+  loaddict: 34.747
+*/

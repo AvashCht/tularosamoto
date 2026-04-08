@@ -1,0 +1,24 @@
+.totals{display:flex;justify-content:center;align-items:flex-end}.totals>*{font-size:1.6rem;margin:0}.totals>h2{font-size:calc(var(--font-heading-scale) * 1.6rem)}.totals *{line-height:1}.totals>*+*{margin-left:2rem}.totals__total{margin-top:.5rem}.totals__total-value{font-size:1.8rem}.cart__ctas+.totals{margin-top:2rem}@media all and (min-width: 750px){.totals{justify-content:flex-end}}
+/*# sourceMappingURL=/cdn/shop/t/14/assets/component-totals.css.map?v=15906652033866631521733441095 */
+
+/*
+     FILE ARCHIVED ON 13:51:10 Dec 21, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:02:19 Apr 02, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.045
+  exclusion.robots: 0.1
+  exclusion.robots.policy: 0.082
+  esindex: 0.019
+  cdx.remote: 13.385
+  LoadShardBlock: 192.741 (3)
+  PetaboxLoader3.datanode: 163.454 (5)
+  PetaboxLoader3.resolve: 161.665 (2)
+  load_resource: 175.907
+  loaddict: 74.92
+*/

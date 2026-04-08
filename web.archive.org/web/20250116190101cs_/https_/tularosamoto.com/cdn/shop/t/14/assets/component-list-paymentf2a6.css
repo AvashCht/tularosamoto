@@ -1,0 +1,43 @@
+.list-payment {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: -0.5rem 0;
+  padding-top: 1rem;
+  padding-left: 0;
+}
+
+@media screen and (min-width: 750px) {
+  .list-payment {
+    justify-content: flex-end;
+    margin: -0.5rem;
+    padding-top: 0;
+  }
+}
+
+.list-payment__item {
+  align-items: center;
+  display: flex;
+  padding: 0.5rem;
+}
+
+/*
+     FILE ARCHIVED ON 19:01:01 Jan 16, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:38:26 Apr 02, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.072 (2)
+  exclusion.robots: 0.08 (2)
+  exclusion.robots.policy: 0.059 (2)
+  esindex: 0.021 (2)
+  cdx.remote: 113.654 (2)
+  LoadShardBlock: 432.75 (6)
+  PetaboxLoader3.datanode: 234.097 (8)
+  load_resource: 172.688 (2)
+  PetaboxLoader3.resolve: 157.031 (3)
+*/

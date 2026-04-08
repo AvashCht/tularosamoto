@@ -1,0 +1,54 @@
+.list-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+@media only screen and (max-width: 749px) {
+  .list-social {
+    justify-content: center;
+  }
+}
+
+.list-social__item .icon {
+  height: 2.2rem;
+  width: 2.2rem;
+}
+
+.list-social__link {
+  align-items: center;
+  display: flex;
+  padding: 1.1rem;
+  color: rgb(var(--color-foreground));
+}
+
+.utility-bar .list-social__link {
+  padding: 0 0.8rem;
+  height: 3.8rem;
+}
+
+.list-social__link:hover .icon {
+  transform: scale(1.07);
+}
+
+/*
+     FILE ARCHIVED ON 13:16:17 Dec 21, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:42:16 Apr 02, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.542
+  exclusion.robots: 0.057
+  exclusion.robots.policy: 0.047
+  esindex: 0.009
+  cdx.remote: 7.675
+  LoadShardBlock: 77.836 (3)
+  PetaboxLoader3.datanode: 93.536 (5)
+  load_resource: 3509.23
+  PetaboxLoader3.resolve: 3411.535
+  loaddict: 71.603
+*/

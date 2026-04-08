@@ -1,0 +1,23 @@
+.product--no-media .rating-wrapper{text-align:center}.rating{display:inline-block;margin:0}.product .rating-star{--letter-spacing: .8;--font-size: 1.7}.card-wrapper .rating-star{--letter-spacing: .7;--font-size: 1.4}.rating-star{--color-rating-star: rgb(var(--color-foreground));--percent: calc( ( var(--rating) / var(--rating-max) + var(--rating-decimal) * var(--font-size) / (var(--rating-max) * (var(--letter-spacing) + var(--font-size))) ) * 100% );letter-spacing:calc(var(--letter-spacing) * 1rem);font-size:calc(var(--font-size) * 1rem);line-height:1;display:inline-block;font-family:Times;margin:0}.rating-star:before{content:"\2605\2605\2605\2605\2605";background:linear-gradient(90deg,var(--color-rating-star) var(--percent),rgba(var(--color-foreground),.15) var(--percent));-webkit-background-clip:text;-webkit-text-fill-color:transparent}.rating-text{display:none}.rating-count{display:inline-block;margin:0}@media (forced-colors: active){.rating{display:none}.rating-text{display:block}}
+/*# sourceMappingURL=/cdn/shop/t/14/assets/component-rating.css.map?v=179577762467860590411733441095 */
+
+/*
+     FILE ARCHIVED ON 19:01:00 Jan 16, 2025 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:35:10 Apr 02, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.758
+  exclusion.robots: 0.084
+  exclusion.robots.policy: 0.068
+  esindex: 0.017
+  cdx.remote: 50.896
+  LoadShardBlock: 206.905 (3)
+  PetaboxLoader3.datanode: 244.481 (4)
+  PetaboxLoader3.resolve: 132.562 (2)
+  load_resource: 206.881
+*/
